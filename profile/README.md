@@ -1,4 +1,4 @@
-<img src="banner.png" alt="cinderworks" width="100%">
+<img src="https://raw.githubusercontent.com/cinderworks-mc/.github/main/profile/banner.png" alt="cinderworks" width="100%">
 
 [![discord](https://img.shields.io/discord/1560020457363738624?label=discord&logo=discord&color=e8742a)](https://discord.gg/ZmmtPNJUcK)
 
